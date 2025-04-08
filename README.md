@@ -1,8 +1,8 @@
 CoppeliaSim:
 
-CenaBaseIdeal.ttt - Robô avulso com a câmera orbitando ao redor da base (Coppelia)
+CenaBaseIdeal.ttt - Robô avulso com a câmera orbitando ao redor da base (Coppelia) - Sensor configurado de maneira ideal
 
-CenaCalibracao.ttt - Cena do robô sobre a base fixa, com a câmera fixa (Coppelia)
+CenaCalibracao.ttt - Cena do robô sobre a base fixa, com a câmera fixa (Coppelia) - Sensor configurado de modo a simular uma Realsense D435
 
 Scripts Desenvolvidos em Python:
 
