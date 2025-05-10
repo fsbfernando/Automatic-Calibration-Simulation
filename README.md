@@ -14,6 +14,8 @@ ScriptComando.py - Responsável por movimentar o robô da simulação para quant
 
 3DDataAugmentation.py - Responsável por aumentar a quantidade de dados rotulados da base do robô, de modo a formar um dataset adequado para o treino da rede neural PV RCNN.
 
+PVRCNN-Training.py - Responsável pelo treinamento da rede neural PV RCNN a partir dos dados 3d previamente rotulados.
+
 ## Scripts Desenvolvidos em Python que não estão em uso no momento:
 
 MatrixCalculator.py - Primeira tentativa de extrair a matriz de transformação desejada a partir do alinhamentos das nuvens de pontos
